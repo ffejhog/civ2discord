@@ -1,0 +1,9 @@
+{
+    "userNameMappings": [
+        {
+            "civName": "civUserName",
+            "discordId": "DiscordID"
+        }
+    ],
+    "discordWebhook": "<WEBHOOKURL>"
+}
