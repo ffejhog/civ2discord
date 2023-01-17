@@ -1,0 +1,23 @@
+{
+  "name": "civ2discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffejhog/civ2discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffejhog/civ2discord/issues"
+  },
+  "homepage": "https://github.com/ffejhog/civ2discord#readme",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "express": "^4.18.2"
+  }
+}
